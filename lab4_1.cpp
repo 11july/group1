@@ -25,7 +25,7 @@ public:Employee(long empcode, double salary, char *str)
 		   return name;
 	   }
 
-	   void displayDeatils()
+	   void displayDetails()
 	   {
 		   cout << "Employee Code : " << getEmpcode() << "\nSalary : " << getsalary() << "\nName : " << getName();
 
@@ -39,7 +39,7 @@ int main()
 {
 	Employee e(101, 20000, "Rashmi");
 
-	e.displayDeatils();
+	e.displayDetails();
 
 	return 0;
 }
