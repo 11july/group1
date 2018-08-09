@@ -1,4 +1,6 @@
 /*
+Lab 3 Assignment 1: Assume the following class diagram and write the skeleton of the program.
+
 Class Diagram:
 
 ----------------Student----------------------
